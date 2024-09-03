@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="J7|HA!/3stwwTDKWNo^/" x="84" y="11"><statement name="HANDLER"><block type="basic_show_icon" id="qNn)G)RjU}=-NbHJt+N/"><field name="i">IconNames.Target</field><next><block type="device_show_leds" id="gVp@4:!53W`kuJd3zGiT"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="-~Av_w?Bff]XCT00p$hP" x="83" y="380"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_arrow" id="CLGJPvE{}Ya@T)@[%R(~"><value name="i"><shadow type="device_arrow" id="6cxseS5l],@/Ko+mGM2,"><field name="arrow">ArrowNames.West</field></shadow></value></block></statement></block><block type="device_gesture_event" id=",n+!bdLFD_#?{fzHg3aV" x="80" y="509"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="%?Ema8.)D:gge]$EuOEG"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id="+Zi$?7A~-G,V)zT.L-4H"></block></value></block></statement></block></xml>
